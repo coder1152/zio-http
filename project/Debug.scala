@@ -17,6 +17,6 @@ object Debug {
    * Sets the main application to execute in the example project.
    */
   // val Main = "zio.http.endpoint.EndpointExamples"
-  // val Main = "zio.http.endpoint.BasicAuthAPIExample"
-  val Main = "example.StaticFilesWithReact"
+  val Main = "zio.http.endpoint.BasicAuthAPIExample"
+  // val Main = "example.BasicAuth"
 }
